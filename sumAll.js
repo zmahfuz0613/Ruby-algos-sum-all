@@ -1,13 +1,10 @@
 //SUM ALL
-//sum all the numbers between and including the two numbers in the array
+//return the sum all the numbers between and including the two numbers in the array
+//the first number in the array should be less than the second number 
 const sumAll = arr => {
-  let total = 0
-  for (var i = arr[0]; i <= arr[1]; i++) {
-    total += i
-  }
-  return total
+
 }
-console.log(sumAll([3, 8]))
+console.log(sumAll([3,3]))
 
 module.exports = {
   sumAll
