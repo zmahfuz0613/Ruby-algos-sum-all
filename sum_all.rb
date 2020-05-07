@@ -1,9 +1,9 @@
-# Write your sudo code here
+# SUM ALL
 
+# Pseudocode here.
 
-def sumAll(arr)
-# Your code here
+def sum_all(arr)
 
 end
 
-# puts sumAll [3,3]
+puts sum_all [3,3]
