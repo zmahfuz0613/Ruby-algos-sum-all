@@ -2,8 +2,8 @@
 
 # Pseudocode here.
 
-def sum_all(arr)
+def sum_all(arr); end
 
-end
+puts sum_all [3, 3]
 
-puts sum_all [3,3]
+# wop
